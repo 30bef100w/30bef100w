@@ -23,14 +23,16 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3><a href="https://github.com/30bef100w/interview-agent">DeepAsk</a></h3>
 <p><b>AI-powered mock interviews</b></p>
 <p>Resume-aware question planning, structured follow-ups, code evaluation, and explainable feedback.</p>
 <p>Exploring how planning and state management make multi-turn agent workflows more useful.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code></p>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 <h3><a href="https://github.com/30bef100w/hmdp-pro">HMDP-Pro</a></h3>
 <p><b>Backend engineering in practice</b></p>
 <p>A learning project extending the Heima Dianping course project with flash-sale workflows, transactional messaging, layered caching, and order reconciliation.</p>
