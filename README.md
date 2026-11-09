@@ -19,6 +19,11 @@ I'm a student at **Chang'an University**, currently working as an **AI Agent Dev
 
 I learn by building projects, testing ideas, and contributing to open source.
 
+### Open-source contributions
+
+- **[Tencent WeKnora](https://github.com/Tencent/WeKnora)** — Agent rerank configuration and Neo4j write error propagation fixes. Merged PRs: [#5298](https://github.com/Tencent/WeKnora/pull/5298), [#5299](https://github.com/Tencent/WeKnora/pull/5299).
+- **[GEPA](https://github.com/gepa-ai/gepa)** — Python 3.15 core package compatibility and CI coverage. Merged PR: [#568](https://github.com/gepa-ai/gepa/pull/568).
+
 ### Featured projects
 
 <table>
