@@ -21,8 +21,40 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-- **[Tencent WeKnora](https://github.com/Tencent/WeKnora)** — Agent rerank configuration and Neo4j write error propagation fixes. Merged PRs: [#5298](https://github.com/Tencent/WeKnora/pull/5298), [#5299](https://github.com/Tencent/WeKnora/pull/5299).
-- **[GEPA](https://github.com/gepa-ai/gepa)** — Python 3.15 core package compatibility and CI coverage. Merged PR: [#568](https://github.com/gepa-ai/gepa/pull/568).
+Four upstream pull requests merged across three projects, with two additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
+
+<table>
+<tr>
+<td><sub>MERGED</sub></td>
+<td><a href="https://github.com/Tencent/WeKnora/pull/5298"><b>Tencent WeKnora #5298</b></a></td>
+<td>Enabled the built-in assistant to configure, replace, preserve, and clear ReRank models through the backend agent-update path.</td>
+</tr>
+<tr>
+<td><sub>MERGED</sub></td>
+<td><a href="https://github.com/Tencent/WeKnora/pull/5299"><b>Tencent WeKnora #5299</b></a></td>
+<td>Preserved Neo4j error chains and transaction-consumption failures so retryable graph-write errors reach the driver's retry classifier.</td>
+</tr>
+<tr>
+<td><sub>MERGED</sub></td>
+<td><a href="https://github.com/agentscope-ai/agentscope/pull/3774"><b>AgentScope #3774</b></a></td>
+<td>Preserved Pydantic <code>$defs</code> in model-card JSON Schemas so nested and enum tool parameters remain valid.</td>
+</tr>
+<tr>
+<td><sub>MERGED</sub></td>
+<td><a href="https://github.com/gepa-ai/gepa/pull/568"><b>GEPA #568</b></a></td>
+<td>Added Python 3.15 core-package compatibility and an independent CI validation path.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td><a href="https://github.com/Tencent/WeKnora/pull/5376"><b>Tencent WeKnora #5376</b></a></td>
+<td>Normalizes source-relative Markdown links in stored Wiki content and provides versioned repair with conflict detection.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td><a href="https://github.com/cloudwego/eino/pull/1480"><b>CloudWeGo Eino #1480</b></a></td>
+<td>Stabilizes duplicate and empty tool-call identities across execution addresses, interrupt recovery, and stream checkpoints.</td>
+</tr>
+</table>
 
 ### Featured projects
 
