@@ -26,32 +26,32 @@ Four upstream pull requests merged across three projects, with two additional ba
 <table>
 <tr>
 <td><sub>MERGED</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/Tencent/WeKnora/pull/5298"><b>WeKnora #5298</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5298"><b>WeKnora #5298</b></a></nobr></td>
 <td>Enabled the built-in assistant to configure, replace, preserve, and clear ReRank models through the backend agent-update path.</td>
 </tr>
 <tr>
 <td><sub>MERGED</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/Tencent/WeKnora/pull/5299"><b>WeKnora #5299</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5299"><b>WeKnora #5299</b></a></nobr></td>
 <td>Preserved Neo4j error chains and transaction-consumption failures so retryable graph-write errors reach the driver's retry classifier.</td>
 </tr>
 <tr>
 <td><sub>MERGED</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/agentscope-ai/agentscope/pull/3774"><b>AgentScope #3774</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/agentscope-ai/agentscope/pull/3774"><b>AgentScope #3774</b></a></nobr></td>
 <td>Preserved Pydantic <code>$defs</code> in model-card JSON Schemas so nested and enum tool parameters remain valid.</td>
 </tr>
 <tr>
 <td><sub>MERGED</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/gepa-ai/gepa/pull/568"><b>GEPA #568</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/gepa-ai/gepa/pull/568"><b>GEPA #568</b></a></nobr></td>
 <td>Added Python 3.15 core-package compatibility and an independent CI validation path.</td>
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/Tencent/WeKnora/pull/5376"><b>WeKnora #5376</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5376"><b>WeKnora #5376</b></a></nobr></td>
 <td>Normalizes source-relative Markdown links in stored Wiki content and provides versioned repair with conflict detection.</td>
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
-<td style="white-space: nowrap;"><a href="https://github.com/cloudwego/eino/pull/1480"><b>Eino #1480</b></a></td>
+<td width="240" style="white-space: nowrap;"><nobr><a href="https://github.com/cloudwego/eino/pull/1480"><b>Eino #1480</b></a></nobr></td>
 <td>Stabilizes duplicate and empty tool-call identities across execution addresses, interrupt recovery, and stream checkpoints.</td>
 </tr>
 </table>
