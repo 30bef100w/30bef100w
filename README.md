@@ -21,7 +21,7 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-Four upstream pull requests merged across three projects, with two additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
+Four upstream pull requests merged across three projects, with five additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
 
 <table>
 <tr>
@@ -53,6 +53,21 @@ Four upstream pull requests merged across three projects, with two additional ba
 <td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/cloudwego/eino/pull/1480"><b>Eino #1480</b></a></nobr></td>
 <td>Stabilizes duplicate and empty tool-call identities across execution addresses, interrupt recovery, and stream checkpoints.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/QwenLM/Qwen-Agent/pull/1057"><b>Qwen-Agent #1057</b></a></nobr></td>
+<td>Adds lifecycle hooks around Agent tool execution for audit metadata, policy denial, and error observation.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/crewAIInc/crewAI/pull/9350"><b>CrewAI #9350</b></a></nobr></td>
+<td>Rejects synchronous tools before async execution so <code>arun()</code> cannot trigger side effects or consume usage budget.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/microsoft/autogen/pull/8474"><b>AutoGen #8474</b></a></nobr></td>
+<td>Preserves Anthropic tool policies and schema constraints such as <code>strict</code> and <code>additionalProperties</code>.</td>
 </tr>
 </table>
 
