@@ -21,7 +21,7 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-Four upstream pull requests merged across three projects, with five additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
+Four upstream pull requests merged across three projects, with seven additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
 
 <table>
 <tr>
@@ -53,6 +53,16 @@ Four upstream pull requests merged across three projects, with five additional b
 <td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/cloudwego/eino/pull/1480"><b>Eino #1480</b></a></nobr></td>
 <td>Stabilizes duplicate and empty tool-call identities across execution addresses, interrupt recovery, and stream checkpoints.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/cloudwego/eino/pull/1488"><b>Eino #1488</b></a></nobr></td>
+<td>Stops summarization retries and model failover after caller cancellation, preserving conversation state and provider-local timeout retries.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/cloudwego/eino/pull/1489"><b>Eino #1489</b></a></nobr></td>
+<td>Makes RAG reciprocal rank fusion deterministic for tied scores and duplicate document payloads across retrievers.</td>
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
