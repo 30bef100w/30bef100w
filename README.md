@@ -21,7 +21,7 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-Four upstream pull requests merged across three projects, with seven additional backend and Agent framework fixes currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
+Four upstream pull requests merged across three projects, with eight additional Agent and backend contributions currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
 
 <table>
 <tr>
@@ -43,6 +43,11 @@ Four upstream pull requests merged across three projects, with seven additional 
 <td><sub>MERGED</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/gepa-ai/gepa/pull/568"><b>GEPA #568</b></a></nobr></td>
 <td>Added Python 3.15 core-package compatibility and an independent CI validation path.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5674"><b>WeKnora #5674</b></a></nobr></td>
+<td>Adds per-conversation MCP tool allowlists across IM channels, with discovery/execution checks, tenant isolation, and batched policy reads.</td>
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
