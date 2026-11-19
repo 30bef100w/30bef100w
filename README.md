@@ -21,9 +21,21 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-Four upstream pull requests merged across three projects, with eight additional Agent and backend contributions currently open for review. Each entry links to the official PR and summarizes the engineering problem it addresses.
+**6 merged pull requests across 5 projects**, including Tencent WeKnora, ByteDance DeerFlow, RAGFlow, AgentScope, and GEPA. Selected merged contributions and ongoing Agent/backend work are listed below.
+
+[View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3A30bef100w+is%3Amerged)
 
 <table>
+<tr>
+<td><sub>MERGED</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/infiniflow/ragflow/pull/22478"><b>RAGFlow #22478</b></a></nobr></td>
+<td>Corrected citations in embedded Agentic chat by sending and persisting the authoritative final answer and normalizing citation markers.</td>
+</tr>
+<tr>
+<td><sub>MERGED</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/bytedance/deer-flow/pull/8293"><b>DeerFlow #8293</b></a></nobr></td>
+<td>Added Pi ACP configuration and setup guidance, with actionable launcher errors and invocation regression tests.</td>
+</tr>
 <tr>
 <td><sub>MERGED</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5298"><b>WeKnora #5298</b></a></nobr></td>
