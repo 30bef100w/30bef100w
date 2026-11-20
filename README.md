@@ -58,6 +58,16 @@ I learn by building projects, testing ideas, and contributing to open source.
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5721"><b>WeKnora #5721</b></a></nobr></td>
+<td>Makes Wiki finalize handoffs durable with atomic batch persistence, failure propagation, and recovery of lost task triggers.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/opensandbox-group/OpenSandbox/pull/2950"><b>OpenSandbox #2950</b></a></nobr></td>
+<td>Uses optimistic locking and conflict retries to preserve concurrent cleanup changes in the Kubernetes sandbox lifecycle.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5674"><b>WeKnora #5674</b></a></nobr></td>
 <td>Adds per-conversation MCP tool allowlists across IM channels, with discovery/execution checks, tenant isolation, and batched policy reads.</td>
 </tr>
