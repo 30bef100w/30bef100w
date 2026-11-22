@@ -21,11 +21,16 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-**7 merged pull requests across 5 projects**, including Tencent WeKnora, ByteDance DeerFlow, RAGFlow, AgentScope, and GEPA. Selected merged contributions and ongoing Agent/backend work are listed below.
+**8 merged pull requests across 6 projects**, including OpenSandbox, Tencent WeKnora, ByteDance DeerFlow, RAGFlow, AgentScope, and GEPA. Selected merged contributions and ongoing Agent/backend work are listed below.
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3A30bef100w+is%3Amerged)
 
 <table>
+<tr>
+<td><sub>MERGED</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/opensandbox-group/OpenSandbox/pull/2950"><b>OpenSandbox #2950</b></a></nobr></td>
+<td>Added optimistic locking and conflict retries to preserve concurrent cleanup changes in the Kubernetes sandbox lifecycle.</td>
+</tr>
 <tr>
 <td><sub>MERGED</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/infiniflow/ragflow/pull/22478"><b>RAGFlow #22478</b></a></nobr></td>
@@ -60,11 +65,6 @@ I learn by building projects, testing ideas, and contributing to open source.
 <td><sub>MERGED</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/gepa-ai/gepa/pull/568"><b>GEPA #568</b></a></nobr></td>
 <td>Added Python 3.15 core-package compatibility and an independent CI validation path.</td>
-</tr>
-<tr>
-<td><sub>OPEN</sub></td>
-<td style="white-space: nowrap;"><nobr><a href="https://github.com/opensandbox-group/OpenSandbox/pull/2950"><b>OpenSandbox #2950</b></a></nobr></td>
-<td>Uses optimistic locking and conflict retries to preserve concurrent cleanup changes in the Kubernetes sandbox lifecycle.</td>
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
@@ -104,7 +104,7 @@ I learn by building projects, testing ideas, and contributing to open source.
 <tr>
 <td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/microsoft/autogen/pull/8474"><b>AutoGen #8474</b></a></nobr></td>
-<td>Preserves Anthropic tool policies and schema constraints such as <code>strict</code> and <code>additionalProperties</code>.</td>
+<td>Preserves Anthropic tool policies and schema constraints such as <code>strict</code> and <code>additionalProperties</code>. <em>PR remains open; repository archived.</em></td>
 </tr>
 </table>
 
