@@ -68,6 +68,11 @@ I learn by building projects, testing ideas, and contributing to open source.
 </tr>
 <tr>
 <td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/opensandbox-group/OpenSandbox/pull/3015"><b>OpenSandbox #3015</b></a></nobr></td>
+<td>Validates Kubernetes Pod identity before task reads and writes, preventing stale schedulers from disrupting replacement sandboxes after IP reuse.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5674"><b>WeKnora #5674</b></a></nobr></td>
 <td>Adds per-conversation MCP tool allowlists across IM channels, with discovery/execution checks, tenant isolation, and batched policy reads.</td>
 </tr>
