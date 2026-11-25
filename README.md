@@ -74,6 +74,11 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 <tr>
 <td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/volcengine/OpenViking/pull/8397"><b>OpenViking #8397</b></a></nobr></td>
+<td>Forces compaction summaries to be text-only while preserving the original tool schema, preventing tool calls from leaving over-budget gateway history unchanged.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5859"><b>WeKnora #5859</b></a></nobr></td>
 <td>Recovers rejected Feishu tenant tokens with bounded re-authentication and protects newer tokens from late concurrent failures.</td>
 </tr>
