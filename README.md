@@ -21,11 +21,16 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 ### Open-source contributions
 
-**9 merged pull requests across 6 projects**, including OpenSandbox, Tencent WeKnora, ByteDance DeerFlow, RAGFlow, AgentScope, and GEPA. Selected merged contributions and ongoing Agent/backend work are listed below.
+**10 merged pull requests across 6 projects**, including OpenSandbox, Tencent WeKnora, ByteDance DeerFlow, RAGFlow, AgentScope, and GEPA. Selected merged contributions and ongoing Agent/backend work are listed below.
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3A30bef100w+is%3Amerged)
 
 <table>
+<tr>
+<td><sub>MERGED</sub></td>
+<td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5859"><b>WeKnora #5859</b></a></nobr></td>
+<td>Recovered rejected Feishu tenant tokens with bounded re-authentication and protected newer tokens from late concurrent failures.</td>
+</tr>
 <tr>
 <td><sub>MERGED</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/opensandbox-group/OpenSandbox/pull/3015"><b>OpenSandbox #3015</b></a></nobr></td>
@@ -77,11 +82,7 @@ I learn by building projects, testing ideas, and contributing to open source.
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/volcengine/OpenViking/pull/8397"><b>OpenViking #8397</b></a></nobr></td>
 <td>Forces compaction summaries to be text-only while preserving the original tool schema, preventing tool calls from leaving over-budget gateway history unchanged.</td>
 </tr>
-<tr>
-<td><sub>OPEN</sub></td>
-<td style="white-space: nowrap;"><nobr><a href="https://github.com/Tencent/WeKnora/pull/5859"><b>WeKnora #5859</b></a></nobr></td>
-<td>Recovers rejected Feishu tenant tokens with bounded re-authentication and protects newer tokens from late concurrent failures.</td>
-</tr>
+
 <tr>
 <td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/AstrBotDevs/AstrBot/pull/11334"><b>AstrBot #11334</b></a></nobr></td>
