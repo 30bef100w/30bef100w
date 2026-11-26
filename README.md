@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://github.com/30bef100w/interview-agent">DeepAsk</a> &nbsp; / &nbsp;
   <a href="https://github.com/30bef100w/hmdp-pro">HMDP-Pro</a> &nbsp; / &nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+author%3A30bef100w+archived%3Afalse">Open-source activity</a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3A30bef100w+archived%3Afalse">Open-source activity</a> &nbsp; / &nbsp;
+  <a href="mailto:17826489249@163.com">Email: 17826489249@163.com</a>
 </p>
 
 ### A little about me
