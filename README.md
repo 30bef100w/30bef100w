@@ -80,6 +80,12 @@ I learn by building projects, testing ideas, and contributing to open source.
 
 <tr>
 <td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;">
+<nobr><a href="https://github.com/bytedance/deer-flow/pull/8686"><b>DeerFlow #8686</b></a></nobr></td>
+<td>Added explicit installation for uploaded Skill archives in chat, reusing Gateway authorization, security review, and conflict checks while preserving package files.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;"><nobr><a href="https://github.com/volcengine/OpenViking/pull/8397"><b>OpenViking #8397</b></a></nobr></td>
 <td>Forces compaction summaries to be text-only while preserving the original tool schema, preventing tool calls from leaving over-budget gateway history unchanged.</td>
 </tr>
