@@ -81,6 +81,12 @@ I learn by building projects, testing ideas, and contributing to open source.
 <tr>
 <td><sub>OPEN</sub></td>
 <td style="white-space: nowrap;">
+<nobr><a href="https://github.com/Tencent/WeKnora/pull/6097"><b>WeKnora #6097</b></a></nobr></td>
+<td>Adds refreshed STS AssumeRole credentials for deployment-managed OSS, with shared refresh caching, workspace identity isolation, and token-aware request signing.</td>
+</tr>
+<tr>
+<td><sub>OPEN</sub></td>
+<td style="white-space: nowrap;">
 <nobr><a href="https://github.com/bytedance/deer-flow/pull/8686"><b>DeerFlow #8686</b></a></nobr></td>
 <td>Added explicit installation for uploaded Skill archives in chat, reusing Gateway authorization, security review, and conflict checks while preserving package files.</td>
 </tr>
